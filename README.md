@@ -1,7 +1,3 @@
 
 hello github
-<<<<<<< HEAD
-b
-=======
-a
->>>>>>> main
+update at github
